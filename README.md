@@ -1,8 +1,8 @@
 # CSE542_Resources
 
-[Raft Paper](https://raft.github.io/raft.pdf)
-
-[Notion Notes](https://nosy-index-245.notion.site/CSE542_Notes-06cbcf4c56f6428ca2bb3a0e5a60d33b?pvs=4)
+- [Raft Paper](https://raft.github.io/raft.pdf)
+- [Notion Notes](https://nosy-index-245.notion.site/CSE542_Notes-06cbcf4c56f6428ca2bb3a0e5a60d33b?pvs=4)
+- [MIT Calendar](http://nil.csail.mit.edu/6.824/2020/schedule.html)
 
 <img width="750" alt="Screenshot 2024-02-18 at 2 02 01 PM" src="https://github.com/malay44/CSE542_Resources/assets/101856674/1a77bf71-fa8c-41e0-8467-706067f782e6">
 
